@@ -13,7 +13,13 @@ Changes not staged for commit:
         modified:   answers.md
 
 no changes added to commit (use "git add" and/or "git commit -a")
-6. 
+6. On branch main
+Your branch is up to date with 'origin/main'.
+
+Changes to be committed:
+  (use "git restore --staged <file>..." to unstage)
+        modified:   answers.md
+
 7. On branch master
 Changes not staged for commit:
   (use "git add <file>..." to update what will be committed)
