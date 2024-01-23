@@ -41,3 +41,13 @@ Changes not staged for commit:
         modified:   answers.md
 
 no changes added to commit (use "git add" and/or "git commit -a")
+10. nothing appears in README.md
+11.To https://github.com/cgorm023/git-lab.git
+ ! [rejected]        main -> main (non-fast-forward)
+error: failed to push some refs to 'https://github.com/cgorm023/git-lab.git'
+hint: Updates were rejected because the tip of your current branch is behind
+hint: its remote counterpart. Integrate the remote changes (e.g.
+hint: 'git pull ...') before pushing again.
+hint: See the 'Note about fast-forwards' in 'git push --help' for details.
+cgorman@Charlie-Laptop:~/git-lab$ 
+12. 
