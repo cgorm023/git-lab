@@ -13,12 +13,14 @@ Changes not staged for commit:
         modified:   answers.md
 
 no changes added to commit (use "git add" and/or "git commit -a")
+
 6. On branch main
 Your branch is up to date with 'origin/main'.
 
 Changes to be committed:
   (use "git restore --staged <file>..." to unstage)
         modified:   answers.md
+
 
 7. On branch master
 Changes not staged for commit:
@@ -27,12 +29,14 @@ Changes not staged for commit:
         modified:   answers.md
 
 no changes added to commit (use "git add" and/or "git commit -a")
+
 8. commit e6a5032448312771d3df8881e86c6969c9cad4c6 (HEAD -> master)
 Author: cgorm023 <c.gorm023@gmail.com>
 Date:   Tue Jan 23 11:16:51 2024 -0500
 
     first github
     your name
+
 9. On branch main
 Your branch is up to date with 'origin/main'.
 
@@ -42,7 +46,9 @@ Changes not staged for commit:
         modified:   answers.md
 
 no changes added to commit (use "git add" and/or "git commit -a")
+
 10. nothing appears in README.md
+
 11.To https://github.com/cgorm023/git-lab.git
  ! [rejected]        main -> main (non-fast-forward)
 error: failed to push some refs to 'https://github.com/cgorm023/git-lab.git'
@@ -51,5 +57,6 @@ hint: its remote counterpart. Integrate the remote changes (e.g.
 hint: 'git pull ...') before pushing again.
 hint: See the 'Note about fast-forwards' in 'git push --help' for details.
 cgorman@Charlie-Laptop:~/git-lab$ 
+
 12. README.md has been updated
 
