@@ -60,3 +60,5 @@ cgorman@Charlie-Laptop:~/git-lab$
 
 12. README.md has been updated
 
+13. .  ..  .git  .gitignore  README.md 
+
